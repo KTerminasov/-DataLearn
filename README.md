@@ -1,7 +1,7 @@
 # Data-Engineering
 
 ## Модуль 1. Роль аналитики в организации.
-- Введение ![Ready](https://img.shields.io/badge/-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-Green)
+- Введение  ![Not Ready](https://img.shields.io/badge/-%D0%9D%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-Red)
 - Роль аналитики в организации
 - Задачи аналитики
 - MindMap инжиниринга данных
@@ -11,4 +11,6 @@
 - Обзор вакансий Amazon и HH.ru
 - Аналитика в Excel
 - Домашнее задание
+
+  ![Ready](https://img.shields.io/badge/-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-Green)
 
