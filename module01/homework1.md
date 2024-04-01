@@ -5,7 +5,7 @@
 - Business Layer - слой для доступа к данным бизнес пользователей
 
 Результат:
-![img](архитектура аналитического решения каршеринга.jpg)
+![img](analytics_solution_architecture.jpg)
 
 ## 2. Аналитика в Excel
 Используя данные Sample - Superstore.xls сделать:
