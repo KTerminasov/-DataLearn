@@ -5,7 +5,7 @@
 - Business Layer - слой для доступа к данным бизнес пользователей
 
 Результат:
-![img](.jpg)
+![img](архитектура аналитического решения каршеринга.jpg)
 
 Здесь вы можете найти [инструкции по установке draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
 
