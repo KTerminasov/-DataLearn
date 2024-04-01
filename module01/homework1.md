@@ -4,7 +4,8 @@
 - Storage Layer - слой хранения данных 
 - Business Layer - слой для доступа к данным бизнес пользователей
 
-Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор. 
+Результат:
+![img](.jpg)
 
 Здесь вы можете найти [инструкции по установке draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
 
