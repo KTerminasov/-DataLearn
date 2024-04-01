@@ -7,8 +7,6 @@
 Результат:
 ![img](архитектура аналитического решения каршеринга.jpg)
 
-Здесь вы можете найти [инструкции по установке draw.io](https://github.com/Data-Learn/data-engineering/blob/master/how-to/How%20to%20install%20drawio.md).
-
 ## 2. Аналитика в Excel
 Используя данные Sample - Superstore.xls сделать:
 - Использовать Lookup
