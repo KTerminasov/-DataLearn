@@ -5,6 +5,7 @@
 - Business Layer - слой для доступа к данным бизнес пользователей
 
 Результат:
+
 ![img](analytics_solution_architecture.jpg)
 
 ## 2. Аналитика в Excel
