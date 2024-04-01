@@ -8,4 +8,4 @@
 - Архитектура аналитического решения ![Ready](https://img.shields.io/badge/-%D0%93%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-Green)
 - Обзор вакансий Amazon и HH.ru ![Not Ready](https://img.shields.io/badge/-%D0%9D%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-red)
 - Аналитика в Excel ![Not Ready](https://img.shields.io/badge/-%D0%9D%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-red)
-- Домашнее задание ![Not Ready](https://img.shields.io/badge/-%D0%9D%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-red)
+- [Домашнее задание](module01/homework1.md) ![Not Ready](https://img.shields.io/badge/-%D0%9D%D0%B5%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE-red)
